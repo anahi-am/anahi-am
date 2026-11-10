@@ -16,7 +16,7 @@ Currently deepening my work in LLMs, NLP, ML. Also shipping side projects throug
 
 ## What I'm building
 
-**[CareerBloom](https://github.com/anahi-am/careerbloom)** — A web app for career transitions.
+**[CareerBloom](https://github.com/verdandi-labs/careerbloom)** — A web app for career transitions.
 Currently refactoring the AI layer and adding job compatibility analysis.
 
 **[Habit Constellation](https://github.com/verdandi-labs/habit-constellation)** — A Flutter habit tracker where consistency becomes a personal night sky.
