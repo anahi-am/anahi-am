@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3f64b1&height=170&section=header&text=Anahi%20Amerise&fontSize=38&fontColor=FFEDEF&fontAlign=50&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3f64b1&height=170&section=header&text=Anahi%20Amerise&fontSize=38&fontColor=FCE1E5&fontAlign=50&fontAlignY=55" width="100%"/>
 
 ### AI Engineering · Full-Stack Development
 
