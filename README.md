@@ -10,7 +10,7 @@
 
 I care about how software feels when you use it. I only build things I'd actually want to use myself.
 
-Currently deepening my work in LLMs, NLP, ML. Also shipping side projects through [Verdandi Labs](https://github.com/orgs/verdandi-labs/repositories), my indie studio for calm, low-friction software.
+Currently deepening my work in LLMs, NLP, ML. Also shipping side projects through Verdandi Labs, my indie studio for calm, low-friction software.
 
 <br/>
 
