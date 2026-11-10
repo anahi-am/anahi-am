@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B8BA8&height=170&section=header&text=Anahi%20Amerise&fontSize=38&fontColor=284932&fontAlign=50&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3f64b1&height=170&section=header&text=Anahi%20Amerise&fontSize=38&fontColor=284932&fontAlign=50&fontAlignY=55" width="100%"/>
 
 ### AI Engineering · Full-Stack Development
 
@@ -39,6 +39,6 @@ I'd spent years before this working internationally (hospitality, reception, cus
 
 [LinkedIn](https://www.linkedin.com/in/anahi-amerise) · [Verdandi Labs](https://github.com/orgs/verdandi-labs/repositories) · Madrid 🇪🇸
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=284932&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3f64b1&height=80&section=footer" width="100%"/>
 
 </div>
