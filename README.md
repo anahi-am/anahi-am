@@ -29,7 +29,7 @@ A friend had been insisting for a while that I should try Python. I had never pr
 
 One course led to another. I did a Java OOP course next and realised I wasn't just enjoying building things, I was more interested in how they were built. How systems are structured, why certain decisions are made, what breaks when you pull the wrong thread. That instinct kept growing. During my AI Engineering programme at Factoría F5 I started connecting it to something bigger: a genuine interest in engineering as a way of thinking, not just a skill set.
 
-I'd spent years before this working internationally (hospitality, reception, customer service) across Spain, the UK, Sweden, Iceland, Norway. I know how to work in environments where things move fast and the people around you change constantly. I bring that with me.
+I'd spent years before this working internationally (hospitality, reception, customer service) across Spain, the UK, Sweden, Iceland, Norway. I know how to work in environments where things move fast and you have to learn by observation, figuring out how things work fast and with little guidance. I bring that with me.
 
 <br/>
 
